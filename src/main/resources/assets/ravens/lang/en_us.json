@@ -1,0 +1,10 @@
+{
+  "itemgroup.ravens" : "Ravens",
+
+  "item.ravens.raven_tag_filled" : "Raven Tag",
+  "item.ravens.raven_tag_blank" : "Raven Tag",
+
+  "block.ravens.raven_perch" : "Raven Perch",
+
+  "subtitles.tutorial.my_sound" : "Raven Tag Filled"
+}

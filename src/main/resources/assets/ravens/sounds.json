@@ -1,0 +1,8 @@
+{
+  "quill_raven": {
+    "subtitle": "subtitles.tutorial.my_sound",
+    "sounds": [
+      "ravens:quill_raven"
+    ]
+  }
+}

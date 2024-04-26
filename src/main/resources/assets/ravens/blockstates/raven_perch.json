@@ -1,0 +1,19 @@
+{
+  "variants" : {
+    "facing=north" : {
+      "model" : "ravens:block/raven_perch"
+    },
+    "facing=east" : {
+      "model" : "ravens:block/raven_perch",
+      "y" : 90
+    },
+    "facing=south" : {
+      "model" : "ravens:block/raven_perch",
+      "y" : 180
+    },
+    "facing=west" : {
+      "model" : "ravens:block/raven_perch",
+      "y" : 270
+    }
+  }
+}
